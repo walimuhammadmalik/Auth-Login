@@ -27,8 +27,8 @@
 
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Login from './Login';
-import Signup from './Signup';
+import Login from './components/Login';
+import Signup from './components/Signup';
 
 function App() {
   return (
